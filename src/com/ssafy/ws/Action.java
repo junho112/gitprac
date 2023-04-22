@@ -8,7 +8,7 @@ public class Action implements Movie {
 	@Override
 	public String getInfo() {
 		// TODO Auto-generated method stub
-		return "액션영화를 관람합니다.";
+		return "우웩우엑.";
 	}
 
 }
